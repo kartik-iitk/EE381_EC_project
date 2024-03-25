@@ -8,12 +8,12 @@ The project aims to create a study companion for students featuring a microcontr
 
 ### Features, Application and Usage
 
-1. Posture Correction using multiple methods - flex sensor
-2. Room Lighting Correction
-3. Screen Distance Correction
-4. Excess Sedentary Detection
-5. Timer and Break Reminder (Pomodoro Technique, etc.)
-6. Ambient Noise Level Detection
+1. Posture Correction using multiple methods - flex sensor, gyroscope-accelerometer
+2. Room Lighting Correction - LDR
+3. Screen Distance Correction - Ultrasonic
+4. Excess Sedentary Detection - Load Cell
+5. Timer and Break Reminder (Pomodoro Technique, etc.) - Push Button
+6. Ambient Noise Level Detection - Microphone
 
 ## Current Status
 
